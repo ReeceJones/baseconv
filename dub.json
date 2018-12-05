@@ -1,0 +1,9 @@
+{
+	"name": "baseconv",
+	"authors": [
+		"Reece Jones"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Reece Jones",
+	"license": "proprietary"
+}
